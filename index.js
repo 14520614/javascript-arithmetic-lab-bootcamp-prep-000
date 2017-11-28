@@ -24,6 +24,5 @@ function dec(n)
 }
 function makeInt(n)
 {
-var a = Math.floor(Math.random() * 1000)
-  return parseInt(a,10)
+  return parseInt(n,10)
 }
