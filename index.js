@@ -25,5 +25,5 @@ function dec(n)
 function makeInt(n)
 {
 
-  return parseInt('1',10)
+  return parseInt(  a = Math.floor(Math.random() * 1000),10)
 }
